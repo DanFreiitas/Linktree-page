@@ -6,3 +6,6 @@
 ## EN
   Cover page for grouping links in bio of social networks.
 
+## Link for View
+https://danfreiitas.github.io/Linktree-page/
+
